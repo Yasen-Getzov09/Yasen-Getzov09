@@ -39,6 +39,7 @@ Tools:     VS Code, Git, GitHub
 ### Contact Me
 
 **Email:** [ygetzov@gmail.com](mailto:ygetzov@gmail.com)
+**Discord:** [codedev.exe] (malito:codedev.exe)
 
 ---
 
